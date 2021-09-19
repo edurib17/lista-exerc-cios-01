@@ -1,3 +1,4 @@
+/*Faça um algoritmo que leia as 3 notas de um aluno e calcule a média aritmética final deste aluno. */
 #include <iostream>
 
 using namespace std;
