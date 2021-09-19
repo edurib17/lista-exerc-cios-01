@@ -1,3 +1,4 @@
+/*Escreva um algoritmo para ler a área de um terreno em m2, o preço do m2, calcular e imprimir o valor total do terreno.*/
 #include <stdio.h>
  
 int main(void)
