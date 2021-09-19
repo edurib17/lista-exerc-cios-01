@@ -1,3 +1,4 @@
+/*Escreva um algoritmo que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão:D = (R+S) / 2 onde  R = (A+B) x 2   e     S = (B+C) x 2*/
 #include <stdio.h>
 int main()
 {
